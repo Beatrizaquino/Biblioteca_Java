@@ -45,8 +45,7 @@
 <ol>
   <li>Clone este repositório ou baixe os arquivos do projeto.</li>
 </ol>
-<pre><code>git clone https://github.com/seu-usuario/sistema-biblioteca-java.git
-cd sistema-biblioteca-java
+<pre><code>git clone https://github.com/Beatrizaquino/Biblioteca_Java.git
 </code></pre>
 <h2>Exemplo de Uso</h2>
 <p>Ao executar o programa, você verá um menu com opções para gerenciar livros, usuários, funcionários e empréstimos. Escolha uma opção digitando o número correspondente e siga as instruções fornecidas.</p>
