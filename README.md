@@ -40,14 +40,7 @@
 </ol>
 <pre><code>git clone https://github.com/seu-usuario/sistema-biblioteca-java.git
 cd sistema-biblioteca-java</code></pre>
-<ol start="2">
-  <li>Compile o código-fonte usando o comando:</li>
-</ol>
-<pre><code>javac Main.java</code></pre>
-<ol start="3">
-  <li>Execute o programa usando o comando:</li>
-</ol>
-<pre><code>java Main</code></pre>
+
 
 <h2>Exemplo de Uso</h2>
 <p>Ao executar o programa, você verá um menu com opções para gerenciar livros, usuários e empréstimos. Escolha uma opção digitando o número correspondente e siga as instruções fornecidas.</p>
