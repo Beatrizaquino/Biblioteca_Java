@@ -38,8 +38,7 @@
 <ol>
   <li>Clone este repositório ou baixe os arquivos do projeto.</li>
 </ol>
-<pre><code>git clone https://github.com/seu-usuario/sistema-biblioteca-java.git
-cd sistema-biblioteca-java</code></pre>
+<pre><code>git clone https://github.com/Beatrizaquino/Biblioteca_Java.git</code></pre>
 
 
 <h2>Exemplo de Uso</h2>
