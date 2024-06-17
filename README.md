@@ -1,6 +1,6 @@
 <h1>Sistema de Biblioteca em Java</h1>
 <p>Este projeto implementa um sistema de gerenciamento de biblioteca em Java. Ele permite gerenciar livros, usuários, funcionários e empréstimos através de um menu interativo.</p>
-<img src="https://t4.ftcdn.net/jpg/05/88/31/85/360_F_588318564_2RNoicsBlUClZJhELYWEI3nRqRGhLMrb.jpg" alt="Sistema de Biblioteca" width="500" />
+<img src="https://e1.pxfuel.com/desktop-wallpaper/633/819/desktop-wallpaper-mario-s-room-3840x2160-lofi-room.jpg" alt="Sistema de Biblioteca" width="500" />
 <h2>Funcionalidades</h2>
 <strong><h3>Livros</h3></strong>
 
